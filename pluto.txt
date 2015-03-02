@@ -1,6 +1,1 @@
-It is so a planet!
-<<<<<<< HEAD
-hahahahahaha
-=======
-It is not a planet.
->>>>>>> db6cdb5666ea9c25456a445d8525d3e1af149cb9
+It is not a planet
