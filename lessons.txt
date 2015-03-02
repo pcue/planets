@@ -1,0 +1,3 @@
+Through this lesson, I learned how how to change the remote repository link 
+of origin. The lesson is very clear and straightforward. The sample outputs 
+are very helpful. 
